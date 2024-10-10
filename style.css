@@ -1,3 +1,10 @@
 body {
 background-color:blueviolet;
 }
+footer{
+    background-color: azure;
+    color: hotpink;
+    position:fixed;
+    bottom:0;
+width:100%
+}
