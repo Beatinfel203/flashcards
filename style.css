@@ -17,6 +17,9 @@ footer p {
     display: flex;
 }
 .cartao{
-    margin: Irem Irem;
-
+    margin:1rem 1rem;
+background-color: aquamarine(156, 68, 238);
+height: 20rem;
+flex-grow: 1;
+flex-basis: calc(33%-6rem);
 }
